@@ -8,12 +8,11 @@ The first step I took in refactoring was by changing most of the <div> tags to s
 
 ## Screenshots
 
-```md
 ![html](assets/images/Screen%20Shot%202022-03-24%20at%205.38.14%20PM.png)
 ![html](assets/images/Screen%20Shot%202022-03-24%20at%205.38.26%20PM.png)
 ![css](assets/images/Screen%20Shot%202022-03-24%20at%205.42.38%20PM.png)
 ![css](assets/images/Screen%20Shot%202022-03-24%20at%205.42.43%20PM.png)
-```
+
 
 ## Deployed Link
 
